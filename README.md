@@ -5,7 +5,7 @@ This repository contains the official PyTorch implementation of the ORL algorith
 > [**Unsupervised Object-Level Representation Learning from Scene Images**](https://arxiv.org/abs/2106.11952),  
 > Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy  
 > In NeurIPS 2021  
-> [[Paper](https://arxiv.org/abs/2106.11952)][[Project Page](https://www.mmlab-ntu.com/project/orl/index.html)][[Bibtex](https://github.com/Jiahao000/ORL#citation)]
+> [[Paper](https://arxiv.org/abs/2106.11952)][[Project Page](https://www.mmlab-ntu.com/project/orl/)][[Bibtex](https://github.com/Jiahao000/ORL#citation)]
 
 ![highlights](highlights.png)
 
